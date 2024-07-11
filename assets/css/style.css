@@ -1,0 +1,58 @@
+table, th, td{
+    text-align: center;
+    padding: 5px;
+    border: 5px
+}
+
+#ROJO{
+    background-color: red;
+}
+
+#BLANCO{
+    background-color: white;
+}
+
+#VERDE{
+    background-color: green;
+}
+
+#GRIS{
+    background-color: gray;
+}
+
+#CAFE{
+    background-color: brown;
+}
+
+#AZUL{
+    background-color: blue;
+}
+
+#VIOLETA{
+    background-color: violet;
+}
+
+#ROSADO{
+    background-color: pink;
+}
+
+#AMARILLO{
+    background-color: yellow;
+}
+
+#TURQUESA{
+    background-color: turquoise;
+}
+
+#NARANJO{
+    background-color: orange;
+}
+
+#PURPURA{
+    background-color: blueviolet;
+}
+
+#NEGRO{
+    color: white;
+    background-color: black;
+}
